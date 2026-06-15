@@ -1,4 +1,4 @@
-const CACHE_NAME = 'hoc-co-v1';
+const CACHE_NAME = 'hoc-co-v2';
 
 // Các file khung bắt buộc phải có để chạy giao diện
 const coreAssets = [
